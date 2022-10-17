@@ -1,0 +1,6 @@
+1. Set the new target location to the player's location.
+2. Make the hook move in a straight line to the player (this means make the grapple hook travel down the straight vector that belongs to the player's location relative to the grapple hook's location).
+3. Make a new timeline for this.
+4. Set an event dispatcher in BP_GrappleComponent before it's destroyed.
+5. Set an event listener in BP_GrappleHook.
+6. (Wait for step 6).

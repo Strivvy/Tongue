@@ -1,0 +1,1531 @@
+﻿Log file open, 02/10/22 15:00:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GrappleAim
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.206860
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Engine.ini]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Engine.ini]
+[2022.02.10-20.00.33:107][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Engine.ini]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.10-20.00.33:107][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.10-20.00.33:108][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.10-20.00.33:108][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.10-20.00.33:108][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.10-20.00.33:108][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.10-20.00.33:108][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.10-20.00.33:108][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.10-20.00.33:108][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.10-20.00.33:108][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Engine.ini]
+[2022.02.10-20.00.33:108][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.10-20.00.33:108][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.10-20.00.33:108][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.10-20.00.33:108][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.10-20.00.33:108][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.10-20.00.33:108][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.10-20.00.33:108][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.10-20.00.33:108][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.10-20.00.33:108][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.10-20.00.33:108][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.10-20.00.33:108][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.10-20.00.33:108][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.10-20.00.33:108][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.10-20.00.33:108][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.02.10-20.00.33:108][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Engine.ini]
+[2022.02.10-20.00.33:108][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Engine.ini]
+[2022.02.10-20.00.33:116][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Scalability.ini]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Scalability.ini]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Scalability.ini]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Scalability.ini]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Scalability.ini]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Scalability.ini]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Scalability.ini]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Scalability.ini]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.10-20.00.33:116][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.10-20.00.33:116][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.02.10-20.00.33:116][  0]LogHAL: Display: Platform has ~ 16 GB [16935870464 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.10-20.00.33:116][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.10-20.00.33:116][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Scalability.ini]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.10-20.00.33:116][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Scalability.ini]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Scalability.ini]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Scalability.ini]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Scalability.ini]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Scalability.ini]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Scalability.ini]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Scalability.ini]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.02.10-20.00.33:117][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Engine.ini]
+[2022.02.10-20.00.33:117][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Config/Windows/Editor.ini]
+[2022.02.10-20.00.33:117][  0]LogInit: Computer: LAPTOP-CKCLG5OL
+[2022.02.10-20.00.33:117][  0]LogInit: User: conor
+[2022.02.10-20.00.33:117][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.02.10-20.00.33:117][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.02.10-20.00.33:118][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.02.10-20.00.33:118][  0]LogMemory: Platform Memory Stats for Windows
+[2022.02.10-20.00.33:118][  0]LogMemory: Process Physical Memory: 152.96 MB used, 152.96 MB peak
+[2022.02.10-20.00.33:118][  0]LogMemory: Process Virtual Memory: 131.50 MB used, 131.50 MB peak
+[2022.02.10-20.00.33:118][  0]LogMemory: Physical Memory: 6160.93 MB used,  9990.38 MB free, 16151.30 MB total
+[2022.02.10-20.00.33:118][  0]LogMemory: Virtual Memory: 134208072.00 MB used,  9656.41 MB free, 134217728.00 MB total
+[2022.02.10-20.00.33:149][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.02.10-20.00.33:193][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.02.10-20.00.33:196][  0]LogInit: Using OS detected language (en-US).
+[2022.02.10-20.00.33:196][  0]LogInit: Using OS detected locale (en-US).
+[2022.02.10-20.00.33:200][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.02.10-20.00.33:357][  0]LogInit: Setting process to per monitor DPI aware
+[2022.02.10-20.00.33:369][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.10-20.00.33:380][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.10-20.00.33:380][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.10-20.00.33:480][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.02.10-20.00.33:514][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.10-20.00.33:514][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.02.10-20.00.33:514][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.02.10-20.00.33:514][  0]LogD3D11RHI: D3D11 adapters:
+[2022.02.10-20.00.33:595][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3050 Laptop GPU' (Feature Level 11_0)
+[2022.02.10-20.00.33:595][  0]LogD3D11RHI:       3991/0/8075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.02.10-20.00.33:633][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2022.02.10-20.00.33:633][  0]LogD3D11RHI:       128/0/8075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.02.10-20.00.33:635][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.02.10-20.00.33:635][  0]LogD3D11RHI:       0/0/8075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.02.10-20.00.33:635][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.02.10-20.00.33:635][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050 Laptop GPU
+[2022.02.10-20.00.33:635][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.02.10-20.00.33:635][  0]LogD3D11RHI:     DeviceId    : 25e2
+[2022.02.10-20.00.33:635][  0]LogD3D11RHI:     SubSysId    : 3e8717aa
+[2022.02.10-20.00.33:635][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.02.10-20.00.33:635][  0]LogD3D11RHI:     DedicatedVideoMemory : 4184866816 bytes
+[2022.02.10-20.00.33:635][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.02.10-20.00.33:635][  0]LogD3D11RHI:     SharedSystemMemory : 8467935232 bytes
+[2022.02.10-20.00.33:635][  0]LogD3D11RHI:     AdapterLuid : 0 60647
+[2022.02.10-20.00.33:641][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.02.10-20.00.33:641][  0]LogD3D11RHI:     GPU DeviceId: 0x25e2 (for the marketing name, search the web for "GPU Device Id")
+[2022.02.10-20.00.33:641][  0]LogWindows: EnumDisplayDevices:
+[2022.02.10-20.00.33:641][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.02.10-20.00.33:642][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.02.10-20.00.33:642][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.02.10-20.00.33:642][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.02.10-20.00.33:642][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3050 Laptop GPU' (P:0 D:0)
+[2022.02.10-20.00.33:642][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3050 Laptop GPU' (P:0 D:0)
+[2022.02.10-20.00.33:643][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3050 Laptop GPU' (P:0 D:0)
+[2022.02.10-20.00.33:643][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3050 Laptop GPU' (P:0 D:0)
+[2022.02.10-20.00.33:643][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.02.10-20.00.33:643][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3050 Laptop GPU
+[2022.02.10-20.00.33:643][  0]LogD3D11RHI:   Driver Version: 472.56 (internal:30.0.14.7256, unified:472.56)
+[2022.02.10-20.00.33:643][  0]LogD3D11RHI:      Driver Date: 11-3-2021
+[2022.02.10-20.00.33:643][  0]LogRHI: Texture pool is 2793 MB (70% of 3991 MB)
+[2022.02.10-20.00.33:643][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.02.10-20.00.33:643][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050 Laptop GPU
+[2022.02.10-20.00.33:643][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.02.10-20.00.33:643][  0]LogD3D11RHI:     DeviceId    : 25e2
+[2022.02.10-20.00.33:643][  0]LogD3D11RHI:     SubSysId    : 3e8717aa
+[2022.02.10-20.00.33:643][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.02.10-20.00.33:643][  0]LogD3D11RHI:     DedicatedVideoMemory : 4184866816 bytes
+[2022.02.10-20.00.33:643][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.02.10-20.00.33:643][  0]LogD3D11RHI:     SharedSystemMemory : 8467935232 bytes
+[2022.02.10-20.00.33:643][  0]LogD3D11RHI:     AdapterLuid : 0 60647
+[2022.02.10-20.00.33:703][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.02.10-20.00.33:703][  0]LogD3D11RHI: Async texture creation enabled
+[2022.02.10-20.00.33:703][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.02.10-20.00.33:715][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.02.10-20.00.33:743][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.02.10-20.00.33:996][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.02.10-20.00.34:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.02.10-20.00.34:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.02.10-20.00.34:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.02.10-20.00.34:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.02.10-20.00.34:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.02.10-20.00.34:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.02.10-20.00.34:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.02.10-20.00.34:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.02.10-20.00.34:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.02.10-20.00.34:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.02.10-20.00.34:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.02.10-20.00.34:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.02.10-20.00.34:043][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.02.10-20.00.34:048][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.02.10-20.00.34:052][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.02.10-20.00.34:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.02.10-20.00.34:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.02.10-20.00.34:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.02.10-20.00.34:074][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.02.10-20.00.34:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.02.10-20.00.34:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.02.10-20.00.34:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.02.10-20.00.34:104][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.02.10-20.00.34:109][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.02.10-20.00.34:114][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.02.10-20.00.34:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.02.10-20.00.34:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.02.10-20.00.34:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.02.10-20.00.34:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.02.10-20.00.34:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.02.10-20.00.34:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.02.10-20.00.34:146][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.02.10-20.00.34:156][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.02.10-20.00.34:191][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.02.10-20.00.34:229][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.02.10-20.00.34:229][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/conor/Documents/Unreal Projects/GrappleAim/Intermediate/Shaders/WorkingDirectory/10988/).
+[2022.02.10-20.00.34:229][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/conor/AppData/Local/Temp/UnrealShaderWorkingDir/B61706DD466E8CC866965A9B025C9640/'.
+[2022.02.10-20.00.34:229][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.02.10-20.00.34:229][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.02.10-20.00.34:229][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.02.10-20.00.34:804][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.10-20.00.34:853][  0]LogDerivedDataCache: Loaded boot cache 0.05s 94MB C:/Users/conor/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.02.10-20.00.34:853][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/conor/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.02.10-20.00.34:853][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/conor/Documents/Unreal Projects/GrappleAim/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.10-20.00.34:853][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.10-20.00.34:853][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/conor/Documents/Unreal Projects/GrappleAim/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.10-20.00.34:853][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.02.10-20.00.34:865][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.02.10-20.00.34:866][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.10-20.00.34:866][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.02.10-20.00.34:871][  0]LogDerivedDataCache: Speed tests for C:/Users/conor/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.02.10-20.00.34:871][  0]LogDerivedDataCache: Display: Performance to C:/Users/conor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1483.23MBs, RandomWriteSpeed=221.13MBs. Assigned SpeedClass 'Local'
+[2022.02.10-20.00.34:871][  0]LogDerivedDataCache: Using Local data cache path C:/Users/conor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.02.10-20.00.34:872][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.10-20.00.34:872][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.10-20.00.34:906][  0]LogSlate: Using FreeType 2.10.0
+[2022.02.10-20.00.34:907][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.10-20.00.34:929][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2022.02.10-20.00.35:104][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.10-20.00.35:104][  0]LogInit: Active device profile: [000001B2236E4900][000001B221CD62C0 49] Windows
+[2022.02.10-20.00.35:104][  0]LogInit: Profiles: [000001B2236E4900][000001B221CD62C0 49] Windows, [000001B2236BF800][000001B221CDE440 49] WindowsNoEditor, [000001B2236E7500][000001B221CE25C0 49] WindowsServer, [000001B2236BCE00][000001B221CE6740 49] WindowsClient, [000001B2236E7800][000001B221CEA8C0 49] IOS, [000001B2236BE800][000001B221CDAA00 49] iPadAir, [000001B2236E6000][000001B221F64B40 49] iPadAir2, [000001B225514A00][000001B22461CD80 49] IPadPro, [000001B225514B00][000001B221F8EDC0 49] iPadAir3, [000001B2236BD900][000001B225640F40 49] iPadAir4, [000001B225517400][000001B2256510C0 49] iPadMini2, [000001B2236BEA00][000001B217119240 49] iPadMini3, [000001B225515700][000001B216A8F3C0 49] iPadMini4, [000001B2236E5100][000001B216CFF540 49] iPadMini5, [000001B22472C300][000001B216D13800 49] iPhone6, [000001B22472C400][000001B216D0F840 49] iPodTouch6, [000001B225517600][000001B221DB5B00 49] iPhone7, [000001B225515800][000001B221DADB40 49] iPodTouch7, [000001B22472FF00][000001B221DBC140 49] iPhone5S, [000001B2236BE200][000001B221DC42C0 49] iPhone6Plus, [000001B225514200][000001B221DC8440 49] iPhone6S, [000001B2236BE400][000001B221DCC5C0 49] iPhone6SPlus, [000001B225517C00][000001B221DD0740 49] iPhone7Plus, [000001B2236BC300][000001B221DD88C0 49] iPhoneSE, [000001B225517500][000001B221DE0A40 49] iPhone8, [000001B2236BDE00][000001B22563CB80 49] iPhone8Plus, [000001B225515100][000001B221E64CC0 49] iPhoneX, [000001B2236BC400][000001B221E68E00 49] iPhoneXS, [000001B225515300][000001B225A02F40 49] iPhoneXSMax, [000001B2236BD400][000001B225A2B0C0 49] iPhoneXR, [000001B225517800][000001B216D85240 49] iPhone11, [000001B2236BEE00][000001B216D893C0 49] iPhone11Pro, [000001B225517700][000001B216D8D540 49] iPhone11ProMax, [000001B2236BCF00][000001B21ABDF6C0 49] iPhoneSE2, [000001B225516E00][000001B216D91840 49] iPhone12Mini, [000001B2236BFC00][000001B2244C39C0 49] iPhone12, [000001B225516400][000001B2244C7B40 49] iPhone12Pro, [000001B2236BC700][000001B2244CA140 49] iPhone12ProMax, [000001B225516300][000001B2244CE2C0 49] iPadPro105, [000001B2236BF100][000001B226624440 49] iPadPro129, [000001B225516200][000001B2257465C0 49] iPadPro97, [000001B2236BCB00][000001B225786740 49] iPadPro2_129, [000001B225517200][000001B2257C68C0 49] iPad5, [000001B2236BF400][000001B225826A40 49] iPad6, [000001B225517300][000001B22582EBC0 49] iPad7, [000001B2236BC200][000001B225874D40 49] iPad8, [000001B225515A00][000001B225A26E80 49] iPadPro11, [000001B2236BD600][000001B2259B2FC0 49] iPadPro2_11, [000001B225515D00][000001B2259B7100 49] iPadPro3_129, [000001B2236BF900][000001B2259BF280 49] iPadPro4_129, [000001B225517000][000001B2259C3400 49] AppleTV, [000001B2236BFF00][000001B225E51580 49] AppleTV4K, [000001B225514100][000001B225FD9700 49] TVOS, [000001B2236BE500][000001B225FDD880 49] Mac, [000001B225517B00][000001B225FE1A00 49] MacClient, [000001B2236BDB00][000001B226055B80 49] MacNoEditor, [000001B225516C00][000001B226058180 49] MacServer, [000001B2236BCA00][000001B224486300 49] Linux, [000001B225516000][000001B22448A480 49] LinuxAArch64, [000001B2236BE700][000001B224496600 49] LinuxNoEditor, [000001B225516500][000001B22449A780 49] LinuxAArch64NoEditor, [000001B2236BD500][000001B22449E900 49] LinuxClient, [000001B225517900][000001B2244A2A80 49] LinuxAArch64Client, [000001B2236BD700][000001B2244AAC00 49] LinuxServer, [000001B225515900][000001B2244AED80 49] LinuxAArch64Server, [000001B2236BF700][000001B2244B2F00 49] Android, [000001B225514600][000001B2259BB040 49] Android_Low, [000001B2236BED00][000001B2244BD180 49] Android_Mid, [000001B2236E7A00][000001B225A072C0 49] Android_High, [000001B22472DC00][000001B225A0F440 49] Android_Default, [000001B2236E6100][000001B216D815C0 49] Android_Adreno4xx, [000001B22472E700][000001B225A13740 49] Android_Adreno5xx_Low, [000001B2236E4A00][000001B225A178C0 49] Android_Adreno5xx, [000001B22472ED00][000001B225A1BA40 49] Android_Adreno6xx, [000001B2236E5200][000001B2244A7BC0 49] Android_Adreno6xx_Vulkan, [000001B22472E800][000001B225A1E1C0 49] Android_Mali_T6xx, [000001B2236E6600][000001B225A22340 49] Android_Mali_T7xx, [000001B22472EE00][000001B2256EA4C0 49] Android_Mali_T8xx, [000001B2236E7200][000001B2256EE640 49] Android_Mali_G71, [000001B22472FC00][000001B2256F27C0 49] Android_Mali_G72, [000001B2236E6A00][000001B2256F6940 49] Android_Mali_G72_Vulkan, [000001B22472DB00][000001B2256FAAC0 49] Android_Mali_G76, [000001B2236E5A00][000001B2265EAC40 49] Android_Mali_G76_Vulkan, [000001B22472E000][000001B225822DC0 49] Android_Mali_G77, [000001B2236E6D00][000001B225792F40 49] Android_Mali_G77_Vulkan, [000001B22472F800][000001B221DD50C0 49] Android_Mali_G78, [000001B2236E6800][000001B225A0B200 49] Android_Mali_G78_Vulkan, [000001B22472D200][000001B221DDD340 49] Android_Mali_G710, [000001B2236E4E00][000001B221E11480 49] Android_Mali_G710_Vulkan, [000001B22472F500][000001B221E155C0 49] Android_Vulkan_SM5, [000001B2236E7400][000001B221E1D740 49] Android_PowerVR_G6xxx, [000001B22472EC00][000001B221E218C0 49] Android_PowerVR_GT7xxx, [000001B2236E7C00][000001B221E25A40 49] Android_PowerVR_GE8xxx, [000001B22472CE00][000001B221E29BC0 49] Android_PowerVR_GM9xxx, [000001B2236E5800][000001B221E2C1C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001B22472E400][000001B221E30340 49] Android_TegraK1, [000001B2236E5000][000001B221E344C0 49] Android_Unknown_Vulkan, [000001B2236BFA00][000001B216D16640 49] Lumin, [000001B2236E5E00][000001B216D1A7C0 49] Lumin_Desktop, [000001B2236BDC00][000001B216D1E940 49] HoloLens, 
+[2022.02.10-20.00.35:216][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.10-20.00.35:216][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.02.10-20.00.35:216][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.02.10-20.00.35:216][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.02.10-20.00.35:216][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.02.10-20.00.35:231][  0]LogNetVersion: GrappleAim 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3340145749)
+[2022.02.10-20.00.35:548][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.02.10-20.00.35:597][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.02.10-20.00.35:602][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.02.10-20.00.35:602][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.02.10-20.00.35:602][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.10-20.00.35:879][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 50DAC8BA4F1649376C4BD08B40807676 | Instance: CCD68E04407E0DF1B8AB9AB60E239262 (LAPTOP-CKCLG5OL-10988).
+[2022.02.10-20.00.36:002][  0]LogPython: Using Python 3.7.7
+[2022.02.10-20.00.36:435][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.10-20.00.36:443][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.10-20.00.36:611][  0]SourceControl: Source control is disabled
+[2022.02.10-20.00.36:611][  0]SourceControl: Source control is disabled
+[2022.02.10-20.00.36:615][  0]SourceControl: Source control is disabled
+[2022.02.10-20.00.36:618][  0]SourceControl: Source control is disabled
+[2022.02.10-20.00.36:630][  0]SourceControl: Source control is disabled
+[2022.02.10-20.00.36:633][  0]LogUProjectInfo: Found projects:
+[2022.02.10-20.00.36:920][  0]LogOpenImageDenoise: OIDN starting up
+[2022.02.10-20.00.36:943][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.10-20.00.36:981][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.10-20.00.36:981][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.10-20.00.37:097][  0]LogCollectionManager: Loaded 0 collections in 0.001118 seconds
+[2022.02.10-20.00.37:119][  0]LogFileCache: Scanning file cache for directory 'C:/Users/conor/Documents/Unreal Projects/GrappleAim/Saved/Collections/' took 0.00s
+[2022.02.10-20.00.37:119][  0]LogFileCache: Scanning file cache for directory 'C:/Users/conor/Documents/Unreal Projects/GrappleAim/Content/Developers/conor/Collections/' took 0.00s
+[2022.02.10-20.00.37:119][  0]LogFileCache: Scanning file cache for directory 'C:/Users/conor/Documents/Unreal Projects/GrappleAim/Content/Collections/' took 0.00s
+[2022.02.10-20.00.37:119][  0]LogOcInput: OculusInput pre-init called
+[2022.02.10-20.00.37:314][  0]LogEngine: Initializing Engine...
+[2022.02.10-20.00.37:321][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.02.10-20.00.37:321][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.10-20.00.37:321][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.02.10-20.00.37:322][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.02.10-20.00.37:467][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.10-20.00.37:477][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.02.10-20.00.37:478][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.02.10-20.00.37:481][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.02.10-20.00.37:481][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.02.10-20.00.37:482][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.02.10-20.00.37:482][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.02.10-20.00.37:482][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.10-20.00.37:482][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.10-20.00.37:482][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.10-20.00.37:482][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.10-20.00.37:482][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.10-20.00.37:482][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.10-20.00.37:482][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.10-20.00.37:482][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.10-20.00.37:482][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.10-20.00.37:482][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.10-20.00.37:482][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.10-20.00.37:482][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.10-20.00.37:521][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.10-20.00.37:521][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.02.10-20.00.37:835][  0]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.02.10-20.00.37:835][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.10-20.00.37:837][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.10-20.00.37:837][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.10-20.00.37:838][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.10-20.00.37:838][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.10-20.00.37:838][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.10-20.00.37:839][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.10-20.00.37:839][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.10-20.00.37:839][  0]LogInit: FAudioDevice initialized.
+[2022.02.10-20.00.37:840][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.02.10-20.00.37:840][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.10-20.00.37:905][  0]LogDerivedDataCache: Saved boot cache 0.07s 94MB C:/Users/conor/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.02.10-20.00.37:906][  0]LogInit: Texture streaming: Enabled
+[2022.02.10-20.00.37:928][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.02.10-20.00.37:936][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.02.10-20.00.37:936][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.02.10-20.00.37:941][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.02.10-20.00.37:976][  0]LogInit: Transaction tracking system initialized
+[2022.02.10-20.00.38:010][  0]BlueprintLog: New page: Editor Load
+[2022.02.10-20.00.38:102][  0]LocalizationService: Localization service is disabled
+[2022.02.10-20.00.38:133][  0]TimingProfiler: Initialize
+[2022.02.10-20.00.38:133][  0]TimingProfiler: OnSessionChanged
+[2022.02.10-20.00.38:133][  0]LoadingProfiler: Initialize
+[2022.02.10-20.00.38:133][  0]LoadingProfiler: OnSessionChanged
+[2022.02.10-20.00.38:133][  0]NetworkingProfiler: Initialize
+[2022.02.10-20.00.38:133][  0]NetworkingProfiler: OnSessionChanged
+[2022.02.10-20.00.38:133][  0]MemoryProfiler: Initialize
+[2022.02.10-20.00.38:133][  0]MemoryProfiler: OnSessionChanged
+[2022.02.10-20.00.38:265][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.02.10-20.00.38:265][  0]LogCook: Display: Mobile HDR setting 1
+[2022.02.10-20.00.38:461][  0]LogFileCache: Scanning file cache for directory 'C:/Users/conor/Documents/Unreal Projects/GrappleAim/Content/' took 0.00s
+[2022.02.10-20.00.38:588][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.02.10-20.00.38:593][  0]SourceControl: Source control is disabled
+[2022.02.10-20.00.38:593][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.569
+[2022.02.10-20.00.38:593][  0]Cmd: MAP LOAD FILE="../../../../../../Users/conor/Documents/Unreal Projects/GrappleAim/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.10-20.00.38:593][  0]LightingResults: New page: Lighting Build
+[2022.02.10-20.00.38:594][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.10-20.00.38:595][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-20.00.38:595][  0]MapCheck: New page: Map Check
+[2022.02.10-20.00.38:595][  0]LightingResults: New page: Lighting Build
+[2022.02.10-20.00.38:599][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.10-20.00.38:602][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.02.10-20.00.38:887][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'SideScrollerExampleMap'.
+[2022.02.10-20.00.38:888][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.02.10-20.00.38:893][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.10-20.00.38:900][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.02.10-20.00.38:901][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.10-20.00.38:902][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.142ms to complete.
+[2022.02.10-20.00.38:902][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.309
+[2022.02.10-20.00.38:903][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.879
+[2022.02.10-20.00.38:998][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-20.00.39:007][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-20.00.39:020][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-20.00.39:028][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-20.00.39:048][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0107 seconds. Added 3822 classes and 928 folders.
+[2022.02.10-20.00.39:052][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.02.10-20.00.39:054][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.10-20.00.39:054][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:054][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.10-20.00.39:054][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:054][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.02.10-20.00.39:055][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2022.02.10-20.00.39:055][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.10-20.00.39:055][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:055][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.10-20.00.39:055][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:055][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.02.10-20.00.39:055][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.02.10-20.00.39:056][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.02.10-20.00.39:056][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:056][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.02.10-20.00.39:056][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:056][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.02.10-20.00.39:056][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.02.10-20.00.39:056][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.10-20.00.39:056][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:056][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.10-20.00.39:056][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:056][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.02.10-20.00.39:056][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.02.10-20.00.39:057][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.10-20.00.39:057][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:057][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.10-20.00.39:057][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:057][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.02.10-20.00.39:057][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.02.10-20.00.39:058][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.10-20.00.39:058][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:058][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.10-20.00.39:058][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:058][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.02.10-20.00.39:058][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.02.10-20.00.39:058][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.10-20.00.39:058][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:058][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.10-20.00.39:058][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:058][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.02.10-20.00.39:058][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.02.10-20.00.39:059][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.10-20.00.39:059][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:059][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.10-20.00.39:059][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:059][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.02.10-20.00.39:059][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.02.10-20.00.39:059][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.10-20.00.39:059][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:059][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.10-20.00.39:059][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:059][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.02.10-20.00.39:059][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.02.10-20.00.39:060][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.10-20.00.39:060][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:060][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.10-20.00.39:060][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:060][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.02.10-20.00.39:060][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.02.10-20.00.39:060][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.10-20.00.39:060][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:060][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.10-20.00.39:060][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:060][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.02.10-20.00.39:060][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.02.10-20.00.39:061][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.10-20.00.39:061][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:061][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.10-20.00.39:061][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:061][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.02.10-20.00.39:061][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.02.10-20.00.39:061][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.10-20.00.39:061][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:061][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.10-20.00.39:061][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:061][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.02.10-20.00.39:061][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.02.10-20.00.39:062][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.10-20.00.39:062][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:062][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.10-20.00.39:062][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:062][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.02.10-20.00.39:062][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.02.10-20.00.39:062][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.10-20.00.39:062][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:062][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.10-20.00.39:062][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:062][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.02.10-20.00.39:062][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.02.10-20.00.39:063][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.10-20.00.39:063][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:063][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.10-20.00.39:063][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:063][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.02.10-20.00.39:063][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.02.10-20.00.39:063][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.10-20.00.39:063][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:063][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.10-20.00.39:063][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:063][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.02.10-20.00.39:063][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.02.10-20.00.39:063][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.10-20.00.39:064][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:064][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.10-20.00.39:064][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:064][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.02.10-20.00.39:064][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.02.10-20.00.39:064][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.10-20.00.39:064][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:064][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.10-20.00.39:064][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:064][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.02.10-20.00.39:064][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.02.10-20.00.39:064][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.10-20.00.39:064][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:064][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.10-20.00.39:064][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:064][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.02.10-20.00.39:064][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.02.10-20.00.39:065][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.10-20.00.39:065][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:065][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.10-20.00.39:065][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:065][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.02.10-20.00.39:065][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.02.10-20.00.39:065][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.10-20.00.39:065][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:065][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.10-20.00.39:065][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:065][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.02.10-20.00.39:065][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.02.10-20.00.39:066][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.02.10-20.00.39:066][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:066][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.02.10-20.00.39:066][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:066][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.02.10-20.00.39:066][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.02.10-20.00.39:066][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.10-20.00.39:066][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:066][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.10-20.00.39:066][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:066][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.02.10-20.00.39:066][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.02.10-20.00.39:067][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.10-20.00.39:067][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:067][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.10-20.00.39:067][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:067][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.02.10-20.00.39:067][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.02.10-20.00.39:067][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.10-20.00.39:067][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.10-20.00.39:067][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.10-20.00.39:067][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.10-20.00.39:067][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.02.10-20.00.39:067][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.02.10-20.00.39:119][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.02.10-20.00.39:121][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.02.10-20.00.39:259][  0]LogSlate: Took 0.000467 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.10-20.00.39:260][  0]LogSlate: Took 0.000363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.02.10-20.00.39:261][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.02.10-20.00.39:340][  0]LogRenderer: Reallocating scene render targets to support 1076x560 Format 10 NumSamples 1 (Frame:1).
+[2022.02.10-20.00.39:489][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.10-20.00.39:489][  0]LogLoad: (Engine Initialization) Total time: 7.47 seconds
+[2022.02.10-20.00.39:489][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.10-20.00.39:536][  0]LogAssetRegistry: Asset discovery search completed in 4.6080 seconds
+[2022.02.10-20.00.39:541][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2022.02.10-20.00.39:543][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.10-20.00.40:518][ 54]LogSlate: Took 0.000396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.10-20.00.45:949][370]LogBlueprint: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Blueprints\AI\BP_AI.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2022.02.10-20.00.45:949][370]LogBlueprint: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Blueprints\AI\BP_AI.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2022.02.10-20.00.45:950][370]LogBlueprint: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Blueprints\AI\BP_AI.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2022.02.10-20.00.45:950][370]LogBlueprint: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Blueprints\AI\BP_AI.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2022.02.10-20.00.45:950][370]LogBlueprint: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Blueprints\AI\BP_AI.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2022.02.10-20.00.45:951][370]LogBlueprint: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Blueprints\AI\BP_AI.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2022.02.10-20.00.45:954][370]LogBlueprint: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Blueprints\BP_Character.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2022.02.10-20.00.45:955][370]LogBlueprint: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Blueprints\BP_Character.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2022.02.10-20.00.45:955][370]LogBlueprint: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Blueprints\BP_Character.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2022.02.10-20.00.45:955][370]LogBlueprint: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Blueprints\BP_Character.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2022.02.10-20.00.45:955][370]LogBlueprint: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Blueprints\BP_Character.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2022.02.10-20.00.45:955][370]LogBlueprint: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Blueprints\BP_Character.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2022.02.10-20.00.46:055][370]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AbilityPack-Telekinesis/Blueprints/BP_Character.BP_Character
+[2022.02.10-20.00.46:201][370]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.02.10-20.00.46:838][370]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.02.10-20.00.46:913][370]LogSlate: Took 0.000442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.10-20.00.46:933][371]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.10-20.01.16:199][ 78]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AbilityPack-Telekinesis/Blueprints/Components/AC_ForceGrabPush.AC_ForceGrabPush
+[2022.02.10-20.02.14:142][977]LogSlate: Window 'AC_ForceGrabPush' being destroyed
+[2022.02.10-20.02.14:148][977]LogSlate: Window 'AC_ForceGrabPush' being destroyed
+[2022.02.10-20.02.14:152][977]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.02.10-20.02.14:152][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-20.02.14:208][977]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.02.10-20.02.14:208][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-20.02.15:137][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere2)
+[2022.02.10-20.02.16:011][ 82]Cmd: DELETE
+[2022.02.10-20.02.16:011][ 82]Cmd: ACTOR DELETE
+[2022.02.10-20.02.16:013][ 82]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.10-20.02.16:037][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.02.10-20.02.16:038][ 82]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.02.10-20.02.34:328][170]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2022.02.10-20.02.38:102][394]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2022.02.10-20.03.09:517][277]Cmd: TRANSACTION UNDO
+[2022.02.10-20.03.09:517][277]LogEditorTransaction: Undo Clicking on Actors
+[2022.02.10-20.03.10:431][323]Cmd: TRANSACTION UNDO
+[2022.02.10-20.03.10:431][323]LogEditorTransaction: Undo Create Actors
+[2022.02.10-20.03.12:532][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.02.10-20.03.12:553][445]LogSavePackage: Moving '../../../../../../Users/conor/Documents/Unreal Projects/GrappleAim/Saved/SideScrollerExampleMap2AB07B894361A04B06C8B98D8C644A0F.tmp' to '../../../../../../Users/conor/Documents/Unreal Projects/GrappleAim/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2022.02.10-20.03.12:684][445]LogSavePackage: Moving '../../../../../../Users/conor/Documents/Unreal Projects/GrappleAim/Saved/SideScrollerExampleMap_BuiltDataCAEF9EDA4DBC47A951A2B68B52894A64.tmp' to '../../../../../../Users/conor/Documents/Unreal Projects/GrappleAim/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2022.02.10-20.03.12:703][445]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.10-20.03.12:703][445]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
+[2022.02.10-20.03.12:703][445]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2022.02.10-20.03.15:792][627]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2022.02.10-20.03.30:842][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge5)
+[2022.02.10-20.03.34:230][722]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2022.02.10-20.04.06:164][626]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2022.02.10-20.04.09:638][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.10-20.04.11:149][921]LogEditorViewport: Clicking on Actor (LMB): BP_AI_C (BP_AI)
+[2022.02.10-20.04.19:435][414]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2022.02.10-20.04.29:400][  7]LogEditorViewport: Clicking on Actor (LMB): BP_AI_C (BP_AI)
+[2022.02.10-20.04.37:052][463]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2022.02.10-20.04.40:411][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.10-20.04.47:404][ 78]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2022.02.10-20.04.51:956][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.10-20.04.53:007][409]LogEditorViewport: Clicking on Actor (LMB): BP_AI_C (BP_AI)
+[2022.02.10-20.05.05:251][136]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2022.02.10-20.05.09:398][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.10-20.05.10:402][439]LogEditorViewport: Clicking on Actor (LMB): BP_AI_C (BP_AI)
+[2022.02.10-20.05.20:988][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.10-20.05.21:452][ 97]Cmd: TRANSACTION UNDO
+[2022.02.10-20.05.21:452][ 97]LogEditorTransaction: Undo Clicking on Actors
+[2022.02.10-20.05.22:369][143]Cmd: TRANSACTION UNDO
+[2022.02.10-20.05.22:369][143]LogEditorTransaction: Undo Set Location
+[2022.02.10-20.05.22:373][143]LogActorComponent: ~FComponentReregisterContext: (/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.BP_AI_5.CharacterMesh0) Component already registered.
+[2022.02.10-20.05.23:327][200]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2022.02.10-20.05.26:306][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.10-20.05.27:323][434]LogEditorViewport: Clicking on Actor (LMB): BP_AI_C (BP_AI)
+[2022.02.10-20.05.31:139][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.02.10-20.05.31:164][657]LogSavePackage: Moving '../../../../../../Users/conor/Documents/Unreal Projects/GrappleAim/Saved/SideScrollerExampleMap1E89D75C479824C19077949208508693.tmp' to '../../../../../../Users/conor/Documents/Unreal Projects/GrappleAim/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2022.02.10-20.05.31:234][657]LogSavePackage: Moving '../../../../../../Users/conor/Documents/Unreal Projects/GrappleAim/Saved/SideScrollerExampleMap_BuiltData1DE77A7A415F205F8E6CC296FC8F82F8.tmp' to '../../../../../../Users/conor/Documents/Unreal Projects/GrappleAim/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2022.02.10-20.05.31:247][657]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.10-20.05.31:247][657]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
+[2022.02.10-20.05.31:247][657]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2022.02.10-20.05.32:276][719]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.10-20.05.32:281][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.10-20.05.32:281][719]PIE: New page: PIE session: SideScrollerExampleMap (Feb 10, 2022, 10:05:32 AM)
+[2022.02.10-20.05.32:283][719]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.02.10-20.05.32:284][719]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.02.10-20.05.32:284][719]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.02.10-20.05.32:292][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008146s)
+[2022.02.10-20.05.32:293][719]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.02.10-20.05.32:293][719]LogPlayLevel: PIE: World Init took: (0.001151s)
+[2022.02.10-20.05.32:293][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.009411s)
+[2022.02.10-20.05.32:321][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.02.10-20.05.32:322][719]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.02.10-20.05.32:322][719]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.10-20.05.32:322][719]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.10-20.05.32:322][719]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.10-20.05.32:322][719]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.10-20.05.32:322][719]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.10-20.05.32:322][719]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.10-20.05.32:322][719]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.10-20.05.32:322][719]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.10-20.05.32:322][719]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.10-20.05.32:322][719]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.10-20.05.32:322][719]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.10-20.05.32:322][719]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.10-20.05.32:325][719]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.10-20.05.32:325][719]LogAudioMixer: Display: 1: FrontRight
+[2022.02.10-20.05.32:354][719]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.02.10-20.05.32:354][719]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.10-20.05.32:354][719]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.10-20.05.32:354][719]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.10-20.05.32:356][719]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.10-20.05.32:356][719]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.10-20.05.32:356][719]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.10-20.05.32:357][719]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.10-20.05.32:357][719]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.10-20.05.32:357][719]LogInit: FAudioDevice initialized.
+[2022.02.10-20.05.32:357][719]LogAudio: Display: Audio Device (ID: 2) registered with world 'SideScrollerExampleMap'.
+[2022.02.10-20.05.32:382][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-20.05.32:383][719]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.02.10-20.05.32:385][719]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2022.02.10-15.05.32
+[2022.02.10-20.05.32:386][719]LogWorld: Bringing up level for play took: 0.002264
+[2022.02.10-20.05.32:386][719]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.02.10-20.05.32:389][719]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.02.10-20.05.32:393][719]PIE: Server logged in
+[2022.02.10-20.05.32:394][719]PIE: Play in editor total start time 0.114 seconds.
+[2022.02.10-20.05.32:441][720]LogRenderer: Reallocating scene render targets to support 1700x988 Format 10 NumSamples 1 (Frame:1).
+[2022.02.10-20.05.32:984][739]LogBlueprintUserMessages: [SideScrollerCharacter_78] Target out of range
+[2022.02.10-20.05.35:214][873]LogBlueprintUserMessages: [GrappleComponent] X=1199.149 Y=-103.194 Z=107.827
+[2022.02.10-20.05.35:215][873]LogBlueprintUserMessages: [GrappleComponent] 90.130539
+[2022.02.10-20.05.36:215][933]LogBlueprintUserMessages: [SideScrollerCharacter_78] Target out of range
+[2022.02.10-20.05.37:599][ 16]LogBlueprintUserMessages: [SideScrollerCharacter_78] Target out of range
+[2022.02.10-20.05.39:732][144]LogBlueprintUserMessages: [GrappleComponent] X=1201.837 Y=-546.994 Z=107.827
+[2022.02.10-20.05.39:732][144]LogBlueprintUserMessages: [GrappleComponent] -89.768677
+[2022.02.10-20.05.40:565][194]LogBlueprintUserMessages: [GrappleComponent] X=1202.078 Y=-608.847 Z=107.827
+[2022.02.10-20.05.40:566][194]LogBlueprintUserMessages: [GrappleComponent] -89.741768
+[2022.02.10-20.05.41:064][224]LogBlueprintUserMessages: [GrappleComponent] X=1203.845 Y=-608.875 Z=107.827
+[2022.02.10-20.05.41:064][224]LogBlueprintUserMessages: [GrappleComponent] -89.522621
+[2022.02.10-20.05.41:565][254]LogBlueprintUserMessages: [GrappleComponent] X=1202.737 Y=-603.549 Z=107.827
+[2022.02.10-20.05.41:566][254]LogBlueprintUserMessages: [GrappleComponent] -89.656151
+[2022.02.10-20.05.41:865][272]LogBlueprintUserMessages: [GrappleComponent] X=1202.177 Y=-590.606 Z=107.827
+[2022.02.10-20.05.41:865][272]LogBlueprintUserMessages: [GrappleComponent] -89.71843
+[2022.02.10-20.05.43:832][390]LogBlueprintUserMessages: [GrappleComponent] X=1213.976 Y=-889.412 Z=239.407
+[2022.02.10-20.05.43:833][390]LogBlueprintUserMessages: [GrappleComponent] -85.010635
+[2022.02.10-20.05.44:775][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-20.05.44:775][444]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.02.10-20.05.44:775][444]LogSlate: Window 'GrappleAim Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.10-20.05.44:785][444]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.10-20.05.44:786][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-20.05.44:796][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.10-20.05.44:830][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-20.05.44:861][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-20.05.44:863][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-20.05.44:901][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.02.10-20.05.44:929][445]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.02.10-20.10.24:770][403]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.10-20.10.24:802][403]LogStaticMesh: Building static mesh SM_wall...
+[2022.02.10-20.10.24:804][403]LogStaticMesh: Built static mesh [0.00s] /Game/AbilityPack-Telekinesis/Maps/Props/SM_wall.SM_wall
+[2022.02.10-20.10.24:826][403]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AbilityPack-Telekinesis/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2022.02.10-20.10.24:826][403]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 64X64)
+[2022.02.10-20.10.24:826][403]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 64X64)
+[2022.02.10-20.10.24:826][403]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 64X32)
+[2022.02.10-20.10.24:826][403]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2022.02.10-20.10.24:826][403]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 1024X512)
+[2022.02.10-20.10.24:826][403]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2022.02.10-20.10.24:826][403]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.10-20.10.24:826][403]LogStaticMesh: Building static mesh SM_MERGED_Wall...
+[2022.02.10-20.10.24:846][403]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.10-20.10.24:847][403]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X1024)
+[2022.02.10-20.10.24:847][403]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.02.10-20.10.24:847][403]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.02.10-20.10.24:847][403]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 1024X1024)
+[2022.02.10-20.10.24:847][403]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 1024X1024)
+[2022.02.10-20.10.24:847][403]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.10-20.10.24:847][403]LogStaticMesh: Built static mesh [0.02s] /Game/AbilityPack-Telekinesis/Maps/Props/SM_MERGED_Wall.SM_MERGED_Wall
+[2022.02.10-20.10.24:856][403]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2022.02.10-20.10.24:909][403]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.10-20.10.24:909][403]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.10-20.10.24:909][403]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.10-20.10.24:945][403]LogStaticMesh: Building static mesh Cylinder...
+[2022.02.10-20.10.24:945][403]LogStaticMesh: Built static mesh [0.00s] /Game/AbilityPack-Telekinesis/Maps/Props/Cylinder.Cylinder
+[2022.02.10-20.10.24:946][403]LogObjectTools: Deleting 1 worlds: /Game/AbilityPack-Telekinesis/Maps/ExampleMap.ExampleMap
+[2022.02.10-20.10.24:946][403]LogObjectTools: Currently 7 active worlds: /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_2, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7
+[2022.02.10-20.10.24:994][403]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.02.10-20.10.25:774][403]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.10-20.10.26:963][403]LogSlate: Window 'Delete Assets' being destroyed
+[2022.02.10-20.10.27:015][403]LogUObjectGlobals: Force Deleting 78 Package(s):
+	Asset Name: /Game/AbilityPack-Telekinesis/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+	Asset Name: /Game/AbilityPack-Telekinesis/Mannequin/Character/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo
+	Asset Name: /Game/AbilityPack-Telekinesis/Mannequin/Character/Textures/UE4Man_Logo_N.UE4Man_Logo_N
+	Asset Name: /Game/AbilityPack-Telekinesis/Mannequin/Character/Materials/M_UE4Man_Body.M_UE4Man_Body
+	Asset Name: /Game/AbilityPack-Telekinesis/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA
+	Asset Name: /Game/AbilityPack-Telekinesis/Mannequin/Character/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals
+	Asset Name: /Game/AbilityPack-Telekinesis/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4
+	Asset Name: /Game/AbilityPack-Telekinesis/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N
+	Asset Name: /Game/AbilityPack-Telekinesis/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01
+	Asset Name: /Game/AbilityPack-Telekinesis/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.ML_Plastic_Shiny_Beige_LOGO
+[2022.02.10-20.10.27:638][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:640][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:640][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:640][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:640][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:640][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:640][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:640][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:640][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:640][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:641][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:642][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:642][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:642][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:642][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:642][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:642][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:642][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:642][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:642][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:643][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:645][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:645][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:645][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:645][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:645][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:645][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:645][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:645][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:645][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:646][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:647][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:647][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:647][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:647][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:647][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:647][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:647][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:647][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:647][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:648][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:649][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:649][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:649][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:649][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:649][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:649][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:649][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:649][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:649][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:650][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:652][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:652][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:652][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:652][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:652][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:652][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:652][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:652][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:652][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:653][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:654][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:654][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:654][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:654][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:654][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:654][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:654][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:654][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:654][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:655][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:657][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:657][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:657][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:657][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:657][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:657][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:657][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:657][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:657][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:658][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:659][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:659][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:659][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:659][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:659][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:659][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:659][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:659][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:659][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:661][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:662][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:662][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:662][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:662][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:662][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:662][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:662][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:662][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:662][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:662][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:664][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:664][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:664][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:664][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:664][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:664][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:664][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:664][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:664][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:666][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:667][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:667][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:667][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:667][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:667][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:667][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:667][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:667][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:667][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:668][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:669][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:669][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:669][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:669][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:669][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:669][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:669][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:669][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:669][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:669][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:671][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:671][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:671][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:671][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:671][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:671][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:671][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:671][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:671][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:673][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:674][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:674][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:674][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:674][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:674][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:674][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:674][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:674][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:674][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:675][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:676][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:676][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:676][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:676][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:676][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:676][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:676][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:676][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:676][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:676][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:679][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:679][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:679][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:679][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:679][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:679][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:679][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:679][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:679][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:680][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:681][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:681][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:681][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:681][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:681][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:681][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:681][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:681][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:681][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:682][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:682][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:682][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:682][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:682][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:682][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:682][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:682][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:682][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:682][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:683][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:685][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:685][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:685][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:685][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:685][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:685][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:685][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:685][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:685][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:687][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:688][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:688][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:688][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:688][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:688][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:688][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:688][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:688][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:688][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:688][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:690][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:690][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:690][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:690][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:690][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:690][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:690][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:690][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:690][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:690][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:692][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:692][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:692][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:692][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:692][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:692][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:692][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:692][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:692][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:694][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:695][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:695][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:695][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:695][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:695][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:695][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:695][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:695][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:695][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:696][403]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80CBF22BD827D731A61EA7137C7E6C2739E6AC), compiling. 
+[2022.02.10-20.10.27:697][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:697][403]LogMaterial: Display: 	Missing Material Function
+[2022.02.10-20.10.27:697][403]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.10-20.10.27:697][403]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.10-20.10.27:697][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:697][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.10-20.10.27:697][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.10-20.10.27:697][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.10-20.10.27:697][403]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.10-20.10.27:708][403]LogMaterial: Display: Missing cached shadermap for M_ForceField in PCD3D_SM5, Default, SM5 (DDC key hash: 02E23FE11624B3064E578AE9B977801C5576E16B), compiling. 
+[2022.02.10-20.10.27:710][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Materials\M_ForceField.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:710][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:710][403]LogMaterial: Display: 	(Node TextureSample) FadeLine> Missing input texture
+[2022.02.10-20.10.27:710][403]LogMaterial: Display: Missing cached shadermap for M_ForceField in PCD3D_SM5, Default, SM5 (DDC key hash: 02E23FE11624B3064E578AE9B977801C5576E16B), compiling. 
+[2022.02.10-20.10.27:711][403]LogMaterial: Warning: [AssetLog] C:\Users\conor\Documents\Unreal Projects\GrappleAim\Content\AbilityPack-Telekinesis\Materials\M_ForceField.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.10-20.10.27:711][403]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.10-20.10.27:711][403]LogMaterial: Display: 	(Node TextureSample) FadeLine> Missing input texture
+[2022.02.10-20.10.27:711][403]LogStaticMesh: Building static mesh 1M_Cube...
+[2022.02.10-20.10.27:713][403]LogStaticMesh: Built static mesh [0.00s] /Game/AbilityPack-Telekinesis/Maps/Props/1M_Cube.1M_Cube
+[2022.02.10-20.10.27:717][403]LogStaticMesh: Building static mesh SM_Projecile...
+[2022.02.10-20.10.27:719][403]LogStaticMesh: Built static mesh [0.00s] /Game/AbilityPack-Telekinesis/Maps/Props/SM_Projecile.SM_Projecile
+[2022.02.10-20.10.27:927][403]LogStaticMesh: Building static mesh Cylinder...
+[2022.02.10-20.10.27:928][403]LogStaticMesh: Built static mesh [0.00s] /Game/AbilityPack-Telekinesis/Maps/Props/Cylinder.Cylinder
+[2022.02.10-20.10.27:929][403]LogStaticMesh: Building static mesh Bump_StaticMesh...
+[2022.02.10-20.10.27:931][403]LogStaticMesh: Built static mesh [0.00s] /Game/AbilityPack-Telekinesis/Maps/Props/Bump_StaticMesh.Bump_StaticMesh
+[2022.02.10-20.10.27:932][403]LogStaticMesh: Building static mesh 1M_Cube_Chamfer...
+[2022.02.10-20.10.27:934][403]LogStaticMesh: Built static mesh [0.00s] /Game/AbilityPack-Telekinesis/Maps/Props/1M_Cube_Chamfer.1M_Cube_Chamfer
+[2022.02.10-20.10.27:939][403]LogStaticMesh: Building static mesh TemplateFloor...
+[2022.02.10-20.10.27:940][403]LogStaticMesh: Built static mesh [0.00s] /Game/AbilityPack-Telekinesis/Maps/Props/TemplateFloor.TemplateFloor
+[2022.02.10-20.10.27:941][403]LogStaticMesh: Building static mesh SM_MERGED_Wall...
+[2022.02.10-20.10.27:956][403]LogStaticMesh: Built static mesh [0.01s] /Game/AbilityPack-Telekinesis/Maps/Props/SM_MERGED_Wall.SM_MERGED_Wall
+[2022.02.10-20.10.27:957][403]LogStaticMesh: Building static mesh RightArm_StaticMesh...
+[2022.02.10-20.10.27:959][403]LogStaticMesh: Built static mesh [0.00s] /Game/AbilityPack-Telekinesis/Maps/Props/RightArm_StaticMesh.RightArm_StaticMesh
+[2022.02.10-20.10.27:961][403]LogStaticMesh: Building static mesh Ramp_StaticMesh...
+[2022.02.10-20.10.27:963][403]LogStaticMesh: Built static mesh [0.00s] /Game/AbilityPack-Telekinesis/Maps/Props/Ramp_StaticMesh.Ramp_StaticMesh
+[2022.02.10-20.10.27:964][403]LogStaticMesh: Building static mesh Linear_Stair_StaticMesh...
+[2022.02.10-20.10.27:967][403]LogStaticMesh: Built static mesh [0.00s] /Game/AbilityPack-Telekinesis/Maps/Props/Linear_Stair_StaticMesh.Linear_Stair_StaticMesh
+[2022.02.10-20.10.27:968][403]LogStaticMesh: Building static mesh LeftArm_StaticMesh...
+[2022.02.10-20.10.27:970][403]LogStaticMesh: Built static mesh [0.00s] /Game/AbilityPack-Telekinesis/Maps/Props/LeftArm_StaticMesh.LeftArm_StaticMesh
+[2022.02.10-20.10.27:986][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.02.10-20.10.28:108][403]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.02.10-20.10.28:162][403]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.054 s
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: === Handled ensure: ===
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: 
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: Ensure condition failed: CurObject != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3143]
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: 
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: Stack: 
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff91fe1e819 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff91f6e520b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff91ee2b269 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff91f110dde UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff91f107e97 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff92a57a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff92a59280e UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff92a3e421e UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff92a45e104 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff92a447097 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff92a439b62 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff93979c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff9397892b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff93979e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff939784410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff9a6601c4c USER32.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff9a6600ea6 USER32.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff93979fb79 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff92a46865a UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff92a406b09 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff91f1a3e9e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff91f6d8de2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff907fdc618 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff8eb922d69 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff8eb922f6e UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff8eb9123a7 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff8ffdf2173 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff8ffdeb7f2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff8ffe6b6d2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff8ffdeea17 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff92a57a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff92a59280e UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff92a3e421e UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff92a45e104 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff92a447097 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff92a439b62 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff93979c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff9397892b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff93979e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff939784410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff9a6601c4c USER32.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff9a6600ea6 USER32.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff93979fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff6b1db7621 UE4Editor.exe!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff6b1dd0fcc UE4Editor.exe!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff6b1dd10ba UE4Editor.exe!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff6b1dd40dd UE4Editor.exe!UnknownFunction []
+[2022.02.10-20.10.28:162][403]LogOutputDevice: Error: [Callstack] 0x00007ff6b1de5984 UE4Editor.exe!UnknownFunction []
+[2022.02.10-20.10.28:163][403]LogOutputDevice: Error: [Callstack] 0x00007ff6b1de853a UE4Editor.exe!UnknownFunction []
+[2022.02.10-20.10.28:163][403]LogOutputDevice: Error: [Callstack] 0x00007ff9a63854e0 KERNEL32.DLL!UnknownFunction []
+[2022.02.10-20.10.28:163][403]LogOutputDevice: Error: [Callstack] 0x00007ff9a782485b ntdll.dll!UnknownFunction []
+[2022.02.10-20.10.28:163][403]LogOutputDevice: Error: 
